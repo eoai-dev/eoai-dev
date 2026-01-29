@@ -7,6 +7,10 @@ Been building stuff since high school. Entrepreneur, self-taught engineer, and I
 **Director of Emerging Technology** @ [Winmill Software](https://winmill.com)  
 **Founder** @ [Orchata Labs](https://orchata.ai)
 
+### Formerly
+
+CEO / Co-founder @ [Divelement](https://divelement.io) - acquired by Winmill
+
 Right now I'm deep in AI/ML, mostly focused on the boring but important problems: making it easier to train, deploy, and actually use AI in production.
 
 ### Things I've built

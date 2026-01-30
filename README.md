@@ -17,6 +17,8 @@ Right now I'm deep in AI/ML, mostly focused on the boring but important problems
 
 🥛 [**Orchata**](https://github.com/orchata-ai) - Knowledge infrastructure for AI agents. Add your data in minutes.
 
+🤖 [**Moltbot Body**](https://huggingface.co/spaces/eoai-dev/moltbot_body) - An application to connect the Reachy Mini robot from huggingface to Moltbot (formerly Clawdbot)
+
 💼 [**Bizbe**](https://bizbe.com) - AI-native M&A brokerage for FedEx ISP acquisitions
 
 🎯 [**Vantige**](https://vantige.ai) - AI-powered deal sourcing
